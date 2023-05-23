@@ -1,16 +1,45 @@
-### Hi there 👋
+### About Me:
 
-<!--
-**BondPV/bondpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a front-end developer. I want to advance in skills and knowledge. I want to find a really interesting job.
 
-Here are some ideas to get you started:
+[My Telegram](https://t.me/bondpv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies:
+![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
+![](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux&logoColor=blue)
+![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=Jest&logoColor=yellow)
+![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
+![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink)
+
+![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=Vite&logoColor=purple)
+![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
+![](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=ESLint&logoColor=purple)
+
+### Projects:
+
+- [MAPMoney - учет финансов](https://mapmoney.netlify.app) | [Repo](https://github.com/BondPV/rsclone)  
+TypeScript, SPA, REST API, Express, Mongo DB 
+
+
+- [Async-race - мини-игра](https://bpv-async-race.netlify.app/) | [Repo](https://github.com/BondPV/async-race)  
+TypeScript, SPA, REST API 
+
+- [Online-store - интернет магазин](https://bondpv.github.io/online-store) | [Repo](https://bondpv.github.io/online-store/#main)  
+TypeScript, SPA 
+
+- [Song Bird - викторина](https://bondpv.github.io/songbird/) | [Repo](https://github.com/BondPV/songbird)  
+JavaScript, SPA 
+
+- [Puzzle - игра "Пятнашки"](https://bondpv.github.io/codejam/) | [Repo](https://github.com/BondPV/codejam)  
+JavaScript 
+
+- [Online-zoo](https://bondpv.github.io/online-zoo/) | [Repo](https://github.com/BondPV/online-zoo)  
+HTML, SCSS, JavaScript 
+
+### Codewars: 
+
+![](https://www.codewars.com/users/BondPV/badges/small)
