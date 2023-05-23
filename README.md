@@ -27,7 +27,7 @@ TypeScript, WebPack, SPA, REST API, Express, Mongo DB
 - [Rick and Morty](https://bondpv-rss-react.netlify.app/) | [Repo](https://github.com/BondPV/rss-react)  
 React, TypeScript, Redux Toolkit, React Hook Form, Vite, Vitest, Cypress
 
-- [Online-store - интернет магазин](https://bondpv.github.io/online-store) | [Repo](https://bondpv.github.io/online-store/#main)  
+- [Online-store - интернет магазин](https://bondpv.github.io/online-store) | [Repo](https://github.com/BondPV/online-store)  
 TypeScript, SPA, WebPack, ESLint, Jest
 
 - [Async-race](https://bpv-async-race.netlify.app/) | [Repo](https://github.com/BondPV/async-race)  
