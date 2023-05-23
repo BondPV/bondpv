@@ -22,23 +22,19 @@ I am a front-end developer. I want to advance in skills and knowledge. I want to
 ### Projects:
 
 - [MAPMoney - учет финансов](https://mapmoney.netlify.app) | [Repo](https://github.com/BondPV/rsclone)  
-TypeScript, SPA, REST API, Express, Mongo DB 
+TypeScript, WebPack, SPA, REST API, Express, Mongo DB 
 
-
-- [Async-race - мини-игра](https://bpv-async-race.netlify.app/) | [Repo](https://github.com/BondPV/async-race)  
-TypeScript, SPA, REST API 
+- [Rick and Morty](https://bondpv-rss-react.netlify.app/) | [Repo](https://github.com/BondPV/rss-react)  
+React, TypeScript, Redux Toolkit, React Hook Form, Vite, Vitest, Cypress
 
 - [Online-store - интернет магазин](https://bondpv.github.io/online-store) | [Repo](https://bondpv.github.io/online-store/#main)  
-TypeScript, SPA 
+TypeScript, SPA, WebPack, ESLint, Jest
+
+- [Async-race](https://bpv-async-race.netlify.app/) | [Repo](https://github.com/BondPV/async-race)  
+TypeScript, SPA, REST API 
 
 - [Song Bird - викторина](https://bondpv.github.io/songbird/) | [Repo](https://github.com/BondPV/songbird)  
-JavaScript, SPA 
-
-- [Puzzle - игра "Пятнашки"](https://bondpv.github.io/codejam/) | [Repo](https://github.com/BondPV/codejam)  
-JavaScript 
-
-- [Online-zoo](https://bondpv.github.io/online-zoo/) | [Repo](https://github.com/BondPV/online-zoo)  
-HTML, SCSS, JavaScript 
+JavaScript, SPA, WebPack  
 
 ### Codewars: 
 
