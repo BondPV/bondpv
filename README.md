@@ -24,6 +24,9 @@ I am a front-end developer. I want to advance in skills and knowledge. I want to
 - [MAPMoney - учет финансов](https://mapmoney.netlify.app) | [Repo](https://github.com/BondPV/rsclone)  
 TypeScript, WebPack, SPA, REST API, Express, Mongo DB 
 
+- [GraphiQL Country Explorer - Playground GraphQL](https://rss-graphiql-app.netlify.app/) | [Repo](https://github.com/BondPV/graphiql-app)  
+React, TypeScript, Redux Toolkit, React Hook Form, Vite, GraphQL, Material UI, Firebase, CodeMirror 
+
 - [Rick and Morty](https://bondpv-rss-react.netlify.app/) | [Repo](https://github.com/BondPV/rss-react)  
 React, TypeScript, Redux Toolkit, React Hook Form, Vite, Vitest, Cypress
 
