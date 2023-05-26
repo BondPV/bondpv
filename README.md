@@ -13,6 +13,7 @@ I am a front-end developer. I want to advance in skills and knowledge. I want to
 ![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
 ![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink)
+![](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green)
 
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=Vite&logoColor=purple)
