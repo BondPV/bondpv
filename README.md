@@ -20,7 +20,7 @@ I am a front-end developer. I want to advance in skills and knowledge.
 ![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
 ![](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=ESLint&logoColor=purple)
 
-### Projects:
+<!-- ### Projects:
 
 - [MAPMoney - учет финансов](https://mapmoney.netlify.app) | [Repo](https://github.com/BondPV/rsclone)  
 TypeScript, WebPack, SPA, REST API, Express, Mongo DB 
@@ -38,7 +38,7 @@ TypeScript, SPA, WebPack, ESLint, Jest
 TypeScript, SPA, REST API 
 
 - [Song Bird - викторина](https://bondpv.github.io/songbird/) | [Repo](https://github.com/BondPV/songbird)  
-JavaScript, SPA, WebPack  
+JavaScript, SPA, WebPack   -->
 
 ### Codewars: 
 
