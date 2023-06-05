@@ -1,6 +1,6 @@
 ### About Me:
 
-I am a front-end developer. I want to advance in skills and knowledge. I want to find a really interesting job.
+I am a front-end developer. I want to advance in skills and knowledge.
 
 [My Telegram](https://t.me/bondpv)
 
