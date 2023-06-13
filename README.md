@@ -2,7 +2,7 @@
 
 I am a front-end developer. I want to advance in skills and knowledge.
 
-[My Telegram](https://t.me/bondpv)
+[My Telegram](https://t.me/ibondp)
 
 ### Skills & Technologies:
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
